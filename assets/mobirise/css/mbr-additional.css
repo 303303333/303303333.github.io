@@ -432,11 +432,11 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-1 .link {
-  font-size: 1.45rem;
+  font-size: 1.35rem;
 }
 #ext_menu-1 .dropdown-item,
 #ext_menu-1 .nav-dropdown-sm .link {
-  font-size: 1.570rem;
+  font-size: 1.462rem;
 }
 #ext_menu-1 .link:hover,
 #ext_menu-1 .dropdown-item:hover,
@@ -503,6 +503,7 @@ h6,
 }
 #form1-9 SMALL {
   color: #000000;
+  text-align: center;
 }
 #form1-9 B {
   font-size: 20px;

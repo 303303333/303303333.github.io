@@ -26,7 +26,9 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 14,
-    "versionPublish": "4.5.2"
+    "versionPublish": "4.5.2",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -49,7 +51,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1.45",
+            "fontSize": "1.35",
             "fontName": {
               "name": "Montserrat",
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
@@ -81,10 +83,10 @@
               "font-family": "'Montserrat', sans-serif"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.35rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.462rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -203,7 +205,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
@@ -319,7 +321,7 @@
             "ShowTexts": false,
             "showButtons": true,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -488,7 +490,8 @@
               "color": "#232323"
             },
             "SMALL": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "center"
             },
             "B": {
               "font-size": "20px"
