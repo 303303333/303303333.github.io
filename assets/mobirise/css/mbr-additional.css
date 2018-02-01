@@ -634,6 +634,17 @@ h6,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 .mbr-section-title {
+  font-size: 25px;
+}
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-k P {
   text-align: left;
   color: #000000;
