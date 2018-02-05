@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-01_1529",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -344,7 +344,7 @@
               "active": true
             }
           },
-          "title1": "SOLO",
+          "title1": "<a href=\"https://www.dropbox.com/s/lwanm8h86zp1akt/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%B4%D0%BE%2001.09.2018.pdf?dl=0\">SOLO</a>",
           "subtitle1": "Solo",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<a href=\"assets/files/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%20%D0%A1%D0%BE%D1%81%D1%82%D0%B0%D0%B2%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%20S-546%20ILMARI%20(Elegance,Prestige,Classic).pdf\">CLASSIC</a>",
