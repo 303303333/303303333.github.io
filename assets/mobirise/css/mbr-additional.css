@@ -634,9 +634,6 @@ h6,
 #header3-z .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box5-10 H3 {
-  font-size: 25px;
-}
 #header3-11 .mbr-section-title,
 #header3-11 .mbr-section-subtitle {
   text-align: center;
@@ -656,6 +653,9 @@ h6,
   text-align: center;
 }
 #msg-box5-3k H3 {
+  font-size: 25px;
+}
+#msg-box5-3p H3 {
   font-size: 25px;
 }
 #header3-3i .mbr-section-title,
